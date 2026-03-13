@@ -180,7 +180,7 @@ sdk_upload.completed
 
 4. The backend retrieves the **recording ID**.
 5. A transcript job is created.
-6. [Recall.ai](https://www.recall.ai) sends:
+6. Recall.ai sends:
 
 ```
 transcript.done
