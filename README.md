@@ -101,7 +101,7 @@ https://abc123.ngrok-free.app
 
 ## 7. Configure Recall.ai Webhooks
 
-Login to [Recall.ai](https://www.recall.ai), go to your **Recall Dashboard** and configure the [webhook URL.](https://docs.recall.ai/reference/webhooks-overview)
+Login to [Recall.ai](https://www.recall.ai) and it will take you to your dashboard, then configure the [webhook URL.](https://docs.recall.ai/reference/webhooks-overview)
 
 Add the following endpoint:
 
