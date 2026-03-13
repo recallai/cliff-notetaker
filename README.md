@@ -126,10 +126,10 @@ Add events such as:
 
 These events allow the backend to:
 
-- retrieve the recording
-- create a transcript
-- retrieve the transcript
-- trigger AI summarization
+- Retrieve the recording
+- Generate a transcript
+- Retrieve the transcript
+- Trigger AI summarization
 
 ---
 
