@@ -199,7 +199,7 @@ transcript.done
 
 # Tech Stack
 
-- [Recall.ai](https://www.recall.ai) Desktop SDK
+- [Recall.ai Desktop SDK](https://www.recall.ai/product/desktop-recording-sdk) 
 - Electron
 - Express
 - OpenAI API
