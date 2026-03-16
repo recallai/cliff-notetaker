@@ -46,7 +46,7 @@ npm install @recallai/desktop-sdk
 
 Create accounts and API keys from:
 
-- [Recall.ai](https://www.recall.ai)  
+- [Recall.ai](https://us-west-2.recall.ai/dashboard/)  
 - [OpenAI Platform](https://platform.openai.com)
 
 ---
@@ -60,7 +60,7 @@ RECALL_API_KEY=your_recall_api_key
 OPENAI_API_KEY=your_openai_api_key
 RECALL_API_BASE=your_api_base_when_you_signup
 ```
-
+RECALL_API_BASE is the base URL for your Recall region and is determined when you sign up for Recall.ai
 ---
 
 ## 5. Install Dependencies
@@ -75,7 +75,7 @@ npm install
 
 ## 6. Start an ngrok Tunnel
 
-[Recall.ai](https://www.recall.ai) requires a **public webhook endpoint**, so we expose the backend with ngrok. 
+[Recall.ai](https://us-west-2.recall.ai/dashboard/) requires a **public webhook endpoint**, so we expose the backend with ngrok. 
 
 First make sure you add the authtoken on ngrok:
 
@@ -101,7 +101,7 @@ https://abc123.ngrok-free.app
 
 ## 7. Configure Recall.ai Webhooks
 
-Login to [Recall.ai](https://www.recall.ai) and it will take you to your dashboard, then configure the [webhook URL](https://docs.recall.ai/reference/webhooks-overview) under the Webhooks section.
+Login to [Recall.ai](https://us-west-2.recall.ai/dashboard/) and it will take you to your dashboard, then configure the [webhook URL](https://docs.recall.ai/reference/webhooks-overview) under the Webhooks section.
 
 Add the following endpoint:
 
