@@ -66,8 +66,11 @@ RECALL_API_BASE=your_api_base_when_you_signup
 RECALL_API_BASE is the base URL for your Recall region and is determined when you sign up for Recall.ai
 
 US West 2 -> https://www.us-west-2.recall.ai
+
 US East 1 -> https://www.us-east-1.recall.ai
+
 EU -> https://www.eu-central-1.recall.ai
+
 Asia -> https://www.ap-northeast-1.recall.ai
 
 ---
