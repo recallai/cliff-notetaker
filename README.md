@@ -32,8 +32,8 @@ Watch the video below for a walkthrough of the setup:
 ## 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/recallai/cliff-notetaker.git
+cd cliff-notetaker
 ```
 
 ---
