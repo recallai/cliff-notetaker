@@ -2,7 +2,7 @@
 
 Cliff Notetaker is an invisible meeting assistant built on [Recall.ai’s Desktop SDK](https://www.recall.ai/product/desktop-recording-sdk), using Electron and Express that listens to your meetings and summarizes key points. 
 
-[Full walkthrough on the Blogpost](https://www.recall.ai/blog/how-to-build-a-desktop-recording-app)
+Full walkthrough on the Blogpost: [Build a meeting notetaker like granola](https://www.recall.ai/blog/how-to-build-a-desktop-recording-app)
 
 Link to the [docs](https://docs.recall.ai/docs/desktop-sdk) for the Desktop SDK.
 
@@ -218,3 +218,7 @@ transcript.done
 - Express
 - OpenAI API
 - ngrok
+
+
+## Other Desktop Recording Resources
+If you want to learn more about [how to access system audio](https://www.recall.ai/blog/how-to-access-to-system-audio) we've also written a blog on covering accessing system audio in multiple ways with demos. If you're just interested in [macOS screen capture APIs](https://www.recall.ai/blog/macos-screencapture-api) there is a guide on all of the APIs to record on macOS. For those interested in Granola.ai, we've also put out a blog on open source [Granola.ai alternatives](https://www.recall.ai/blog/granola-ai-alternatives) and a tutorial on how to [build a meeting notetaker like granola](https://www.recall.ai/blog/how-to-build-a-desktop-recording-app). Finally, if you are interested in building a desktop recorder from scratch without Recall.ai, read the blog post on how to [record meetings without bots](https://www.recall.ai/blog/how-i-built-a-botless-meeting-recorder-from-scratch).
